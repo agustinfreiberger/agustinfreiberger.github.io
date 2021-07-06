@@ -2616,4 +2616,21 @@ footer .copyright span:last-child::after {
    	align-items:center;
 }
 
+.subtitle {
+	text-align: right;
+	color: #9d9d9d;
+	text-indent: 30px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 3em;
+	margin-right: 0;
+	font-family: "poppins-semibold";
+}
+
+.big-title {
+	text-align: right;
+	font-size: 7.1rem;
+	color: white;
+}
+
 /*# sourceMappingURL=main.css.map */
