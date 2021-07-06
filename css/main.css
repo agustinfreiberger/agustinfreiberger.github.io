@@ -525,7 +525,6 @@ select {
 	padding: 1.5rem 0;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;
@@ -2620,9 +2619,9 @@ footer .copyright span:last-child::after {
 	text-align: right;
 	color: #9d9d9d;
 	text-indent: 30px;
-	margin-top: 1em;
+	margin-top: 2em;
 	margin-bottom: 1em;
-	margin-left: 3em;
+	margin-left: 4em;
 	margin-right: 0;
 	font-family: "poppins-semibold";
 }
